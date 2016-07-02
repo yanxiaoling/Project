@@ -77,7 +77,7 @@ body{
     position: absolute;
     left: -20px;
     top: 12px;
-    background-image: url("image/购物车%20(2).png");
+    background-image: url("../image/购物车%20(2).png");
     background-repeat: no-repeat;
 }
 
@@ -136,7 +136,7 @@ body{
     display: block;
     width: 55px;
     height: 55px;
-    background-image: url("image/mi-LOGO.png");
+    background-image: url("../image/mi-LOGO.png");
     background-repeat: no-repeat;
     background-position: -496px -418px;
 }
@@ -223,7 +223,7 @@ body{
     top: 15px;
     width: 52px;
     height: 48px;
-    background-image: url("image/放大镜.png");
+    background-image: url("../image/放大镜.png");
     background-repeat: no-repeat;
 }
 .site-header .search .searchInfo{
@@ -350,7 +350,7 @@ body{
     display: block;
     width: 41px;
     height: 69px;
-    background: url("image/icon-slides.png");
+    background: url("../image/icon-slides.png");
     background-repeat: no-repeat;
     background-position: -85px 0px;
     z-index: 2;
@@ -365,7 +365,7 @@ body{
     display: block;
     width: 41px;
     height: 69px;
-    background: url("image/icon-slides.png");
+    background: url("../image/icon-slides.png");
     background-repeat: no-repeat;
     background-position: -125px 0px;
     z-index: 2;
@@ -996,7 +996,7 @@ img,input{
     display: none;
     width: 30px;
     height: 45px;
-    background-image: url("image/pre.png");
+    background-image: url("../image/pre.png");
     background-repeat: no-repeat;
 }
 .con-bd .con-list .preR{
@@ -1006,7 +1006,7 @@ img,input{
     display: none;
     width: 30px;
     height: 45px;
-    background-image: url("image/pre.png");
+    background-image: url("../image/pre.png");
     background-repeat: no-repeat;
     background-position:-50px 0;
 }
@@ -1069,12 +1069,12 @@ img,input{
     width: 140px;
     height: 35px;
     display: block;
-    background-image: url("image/mi-server2.png") ;
+    background-image: url("../image/mi-server2.png") ;
     background-repeat: no-repeat;
     margin-left:61px;
 }
 .footer-container .col-links .col-phone a:hover{
-    background-image: url("image/mi-server3.png") ;
+    background-image: url("../image/mi-server3.png") ;
     background-repeat: no-repeat;
 }
 
@@ -1093,7 +1093,7 @@ img,input{
     width: 57px;
     height: 57px;
     margin-right: 10px;
-    background-image: url("image/logo-footer.png");
+    background-image: url("../image/logo-footer.png");
     background-repeat: no-repeat;
     background-position: 50% 50%;
 }
@@ -1120,7 +1120,7 @@ img,input{
     float: right;
     width: 385px;
     height: 40px;
-    background-image: url("image/mi-bottom.png");
+    background-image: url("../image/mi-bottom.png");
     background-repeat: no-repeat;
 }
 .site-info .info-text a:hover{
@@ -1132,7 +1132,7 @@ img,input{
     left: 490px;
     width: 500px;
     height: 50px;
-    background-image: url("image/mi-message.png");
+    background-image: url("../image/mi-message.png");
     background-repeat: no-repeat;
 }
 

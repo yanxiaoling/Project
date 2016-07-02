@@ -55,7 +55,7 @@ input {
     display: block;
     width: 60px;
     height: 50px;
-    background-image: url("image/mi-logo-3.png");
+    background-image: url("../image/mi-logo-3.png");
     background-repeat: no-repeat;
     position: absolute;
     left: 390px;
@@ -76,7 +76,7 @@ input {
     top: 0;
     width: 68px;
     height: 68px;
-    background-image: url("image/mi-QRcode.gif");
+    background-image: url("../image/mi-QRcode.gif");
     background-repeat: no-repeat;
     opacity: 0.3;
 }
@@ -153,13 +153,13 @@ form{
     display: block;
     width:50px;
     height: 42px;
-    background-image: url("image/login-type-1.png") ;
+    background-image: url("../image/login-type-1.png") ;
     background-repeat: no-repeat;
 }
 .login-1:hover{
     top: 6px;
     left: 98px;
-    background-image: url("image/login-type-2.png") ;
+    background-image: url("../image/login-type-2.png") ;
     background-repeat: no-repeat;
 
 }
@@ -169,13 +169,13 @@ form{
     display: block;
     width:50px;
     height: 42px;
-    background-image: url("image/login-type-1.png") ;
+    background-image: url("../image/login-type-1.png") ;
     background-repeat: no-repeat;
     background-position: -55px 0;
 }
 .login-2:hover{
     top: 6px;
-    background-image: url("image/login-type-3.png") ;
+    background-image: url("../image/login-type-3.png") ;
     background-repeat: no-repeat;
     background-position: -55px 0;
 }
@@ -185,14 +185,14 @@ form{
     display: block;
     width:50px;
     height: 42px;
-    background-image: url("image/login-type-1.png") ;
+    background-image: url("../image/login-type-1.png") ;
     background-repeat: no-repeat;
     background-position: -110px 0;
 }
 .login-3:hover{
     left: 202px;
     top: 6px;
-    background-image: url("image/login-type-4.png") ;
+    background-image: url("../image/login-type-4.png") ;
     background-repeat: no-repeat;
     background-position: -110px 0;
 }
